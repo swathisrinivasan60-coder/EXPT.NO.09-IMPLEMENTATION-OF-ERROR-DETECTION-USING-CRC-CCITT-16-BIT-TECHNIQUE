@@ -51,6 +51,7 @@ printf("no error detected");
 }
  
 # OUTPUT:
+![WhatsApp Image 2025-11-18 at 20 22 13_fb66178c](https://github.com/user-attachments/assets/6a5f74d6-96a0-4627-bb21-330f6875f056)
 
 
 # RESULT:
